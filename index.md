@@ -19,3 +19,35 @@ Welcome to my personal user page built with *Markdown*.
 - The area of Computer Science that I am most interested in is Machine Learning
 - I like to apply my programming to neurotechnology applications
 
+> This is a blockquote.  
+> Use it for quotes or important notes.
+
+`int x = 42;`
+
+
+## Link to my LinkedIn
+
+[LinkedIn]((https://www.linkedin.com/in/joshua-caneday-1aa63827a/))
+
+---
+
+## Section links (Link to a header in the same .md file)
+
+[Jump to Task lists](#task-lists)  
+[Back to External Links](#external-links-link-to-another-webpage)
+
+---
+
+## Relative links (Link to another .md file or an image in your repo)
+
+[Read more in guide.md](./guide.md)  
+[Open example image](./images/example.png)
+
+---
+
+## Task lists
+
+- [x] Add external link  
+- [x] Link to a section  
+- [x] Link to another file or image  
+- [ ] Finalize README

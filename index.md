@@ -27,27 +27,19 @@ Welcome to my personal user page built with *Markdown*.
 
 ## Link to my LinkedIn
 
-[LinkedIn]((https://www.linkedin.com/in/joshua-caneday-1aa63827a/))
+[LinkedIn](https://www.linkedin.com/in/joshua-caneday-1aa63827a/)
 
----
 
-## Section links (Link to a header in the same .md file)
+## Link to the readme
 
-[Jump to Task lists](#task-lists)  
-[Back to External Links](#external-links-link-to-another-webpage)
+[Read the README](README.md)
 
----
 
-## Relative links (Link to another .md file or an image in your repo)
+## Goals for the Calendar Year:
 
-[Read more in guide.md](./guide.md)  
-[Open example image](./images/example.png)
+- [x] Turn 20  
+- [x] Become a tutor  
+- [ ] Get accepted into BS/MS  
+- [ ] Get good grades
 
----
-
-## Task lists
-
-- [x] Add external link  
-- [x] Link to a section  
-- [x] Link to another file or image  
-- [ ] Finalize README
+[Jump to The Top](#my-user-page)

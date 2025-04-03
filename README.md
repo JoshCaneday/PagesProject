@@ -1,1 +1,1 @@
-# Joshua Caneday's User Page
+# Caneday's User Page
